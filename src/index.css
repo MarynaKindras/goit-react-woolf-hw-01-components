@@ -1,4 +1,4 @@
-@import-normalize; /* bring in normalize.css styles */
+@import url('normalize.css'); /* bring in normalize.css styles */
 
 * {
   box-sizing: border-box;
