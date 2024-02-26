@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/goit-react-woolf-hw-01-components.git/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-woolf-hw-01-components.git/static/js/main.07d3183d.js",
+    "main.css": "/goit-react-woolf-hw-01-components.git/static/css/main.904ecc3f.css",
+    "main.js": "/goit-react-woolf-hw-01-components.git/static/js/main.d0952703.js",
     "index.html": "/goit-react-woolf-hw-01-components.git/index.html",
-    "main.7acaea2f.css.map": "/goit-react-woolf-hw-01-components.git/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-react-woolf-hw-01-components.git/static/js/main.07d3183d.js.map"
+    "main.904ecc3f.css.map": "/goit-react-woolf-hw-01-components.git/static/css/main.904ecc3f.css.map",
+    "main.d0952703.js.map": "/goit-react-woolf-hw-01-components.git/static/js/main.d0952703.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.904ecc3f.css",
+    "static/js/main.d0952703.js"
   ]
 }
